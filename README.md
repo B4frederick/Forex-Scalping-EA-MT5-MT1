@@ -105,7 +105,7 @@ This project simulates that environment with:
 - Visual Studio 2022  
 
 ```bash
-git clone https://github.com/your-username/scalping-bot.git
+git clone https://github.com/b4frederick/scalping-bot.git
 ```
 
 Open solution → Press **F5**
